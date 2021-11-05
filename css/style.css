@@ -50733,10 +50733,6 @@ margin-top:-450px;display:block;}
         animation-iteration-count: 1;
 }
 
-
-
-
-  
   .contenedor,
   .boton{
     position: fixed;
@@ -50812,4 +50808,8 @@ margin-top:-450px;display:block;}
 .team-profile {
     height: 155px !important;
     width: 180px !important;
+}
+
+.precalificate:hover{
+    color: #FFF !important;
 }
